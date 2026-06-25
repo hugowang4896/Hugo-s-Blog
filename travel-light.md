@@ -1,4 +1,4 @@
-<img width="1200" height="883" alt="1*hSs6SE7x1IhwRCFWcGn8cg" src="https://github.com/user-attachments/assets/3568badc-8a00-4bca-9ee2-8abb7bd6df35" />
+<img src="https://github.com/user-attachments/assets/3568badc-8a00-4bca-9ee2-8abb7bd6df35" alt="1*hSs6SE7x1IhwRCFWcGn8cg" style="display: block; margin: 0 auto; max-width: 60%; height: auto; border-radius: 8px;" />
 
 > La vida no es la que uno vivió, sino la que uno recuerda y cómo la recuerda para contarla.
 > 
